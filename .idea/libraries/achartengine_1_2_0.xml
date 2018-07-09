@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="achartengine-1.2.0">
+    <CLASSES>
+      <root url="jar://F:/JAR/achartengine-1.2.0.jar!/" />
+      <root url="jar://F:/JAR/ant-1.6.5.jar!/" />
+      <root url="jar://F:/JAR/aopalliance-1.0.jar!/" />
+      <root url="jar://F:/JAR/badgeview.jar!/" />
+      <root url="jar://F:/JAR/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://F:/JAR/commons-beanutils-1.8.3.jar!/" />
+      <root url="jar://F:/JAR/commons-beanutils.jar!/" />
+      <root url="jar://F:/JAR/commons-cli-1.2.jar!/" />
+      <root url="jar://F:/JAR/commons-codec-1.9.jar!/" />
+      <root url="jar://F:/JAR/commons-collections-3.2.jar!/" />
+      <root url="jar://F:/JAR/commons-dbutils-1.4.jar!/" />
+      <root url="jar://F:/JAR/commons-fileupload-1.2.1.jar!/" />
+      <root url="jar://F:/JAR/commons-io-1.4.jar!/" />
+      <root url="jar://F:/JAR/commons-logging-1.1.1.jar!/" />
+      <root url="jar://F:/JAR/commons-logging-1.2.jar!/" />
+      <root url="jar://F:/JAR/commons-pool.jar!/" />
+      <root url="jar://F:/JAR/dom4j-1.6.1.jar!/" />
+      <root url="jar://F:/JAR/fluent-hc-4.5.2.jar!/" />
+      <root url="jar://F:/JAR/httpclient-4.5.2.jar!/" />
+      <root url="jar://F:/JAR/httpclient-cache-4.5.2.jar!/" />
+      <root url="jar://F:/JAR/httpclient-win-4.5.2.jar!/" />
+      <root url="jar://F:/JAR/httpcore-4.4.4.jar!/" />
+      <root url="jar://F:/JAR/httpcore-ab-4.4.4.jar!/" />
+      <root url="jar://F:/JAR/httpcore-nio-4.4.4.jar!/" />
+      <root url="jar://F:/JAR/httpmime-4.5.2.jar!/" />
+      <root url="jar://F:/JAR/jna-4.1.0.jar!/" />
+      <root url="jar://F:/JAR/jna-platform-4.1.0.jar!/" />
+      <root url="jar://F:/JAR/jstl.jar!/" />
+      <root url="jar://F:/JAR/jtds-1.2.jar!/" />
+      <root url="jar://F:/JAR/log4j-1.2.6.jar!/" />
+      <root url="jar://F:/JAR/mail.jar!/" />
+      <root url="jar://F:/JAR/msbase.jar!/" />
+      <root url="jar://F:/JAR/mssqlserver.jar!/" />
+      <root url="jar://F:/JAR/mssqlserver2.jar!/" />
+      <root url="jar://F:/JAR/msutil.jar!/" />
+      <root url="jar://F:/JAR/mysql-connector-java-5.0.4-bin.jar!/" />
+      <root url="jar://F:/JAR/mysql.jar!/" />
+      <root url="jar://F:/JAR/org.springframework.core-3.0.5.RELEASE.jar!/" />
+      <root url="jar://F:/JAR/sqljdbc.jar!/" />
+      <root url="jar://F:/JAR/standard.jar!/" />
+      <root url="jar://F:/JAR/upload_jelin.jar!/" />
+      <root url="jar://F:/JAR/xalan-2.7.0.jar!/" />
+      <root url="jar://F:/JAR/xercesImpl.jar!/" />
+      <root url="jar://F:/JAR/xml-apis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
