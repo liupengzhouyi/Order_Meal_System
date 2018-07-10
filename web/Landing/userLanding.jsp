@@ -11,7 +11,7 @@
     <title>用户登陆</title>
 </head>
 <body>
-<form action="/Servlet/getLandingInformationServlet" method="post">
+<form action="/Servlet/getLandingInformationServlet?applicant=0" method="post">
 
 
 

@@ -12,6 +12,15 @@ public class getLandingInformationServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String user = request.getHeader("user");
         System.out.println(user);
+
+        String userNumber = request.getParameter("applicant");
+
+        if (userNumber.equals("0")) {
+            //客户
+        } else if(userNumber.equals("1")) {
+            //业务员
+        }
+
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
